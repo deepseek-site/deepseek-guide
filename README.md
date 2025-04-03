@@ -20,7 +20,7 @@
 #### 2) DeepSeek R1 满血版（官方平替）
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek官网平替网站**，支持 **DeepSeek R1满血版**、V3模型~
-* **🔥蓝鲸 AI：**[chat.lanjing.ai](https://chat.lanjing.ai/) - **DeepSeek高速版**，支持 DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
+* **🔥蓝鲸 AI：**[chat.lanjing.pro](https://chat.lanjing.pro/) - **DeepSeek高速版**，支持 DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
 * **🔥一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/) - **最先进的AI大模型**，支持DeepSeek R1、ChatGPT(GPT-4o、o1、o3) 和 Claude 3.7 sonnet、Grok3 最先进的模型
 * **秘塔 AI：**[访问](https://metaso.cn/)
 * **纳米 AI：**[访问](https://www.n.cn/)
