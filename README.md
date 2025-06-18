@@ -1,6 +1,6 @@
 # 全网最全的DeepSeek使用指南，99%的人都不知道的使用技巧
 
-> 更新日期：2025/06/17        
+> 更新日期：2025/06/20        
 
 作为一个深度的AI使用者，我将自己整个过年期间在DeepSeek上的使用心得进行了整理。   
 无论你是AI领域的初学者还是资深用户，我相信这篇指南都能为你提供一些有价值的技巧。
@@ -12,8 +12,8 @@
 ### ①. 如何开始使用DeepSeek？
 
 #### 1) DeepSeek 官网入口：
-* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.yixiaai.com)
-* **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://chat.yixiaai.com) 
+* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.lanjingai.org)
+* **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://xsimplechat.com) 
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
 
@@ -21,7 +21,7 @@
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek官网平替网站**，支持 **DeepSeek R1满血版**、V3模型~
 * **🔥蓝鲸 AI：**[chat.lanjingai.org](https://chat.lanjingai.org/) - **DeepSeek高速版**，支持 DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
-* **🔥一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/) - **最先进的AI大模型**，支持DeepSeek R1、ChatGPT(GPT-4o、o1、o3) 和 Claude 3.7 sonnet、Grok3 最先进的模型
+* **🔥极简 AI：**[xsimplechat.com](https://xsimplechat.com/) - **最先进的AI大模型**，支持DeepSeek R1、ChatGPT(GPT-4o、o1、o3) 和 Claude 3.7 sonnet、Grok3 最先进的模型
 * **秘塔 AI：**[访问](https://metaso.cn/)
 * **纳米 AI：**[访问](https://www.n.cn/)
 
